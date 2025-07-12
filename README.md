@@ -1,4 +1,4 @@
-#Project Overview: Medicine Scanner App (Python)
+Project Overview: Medicine Scanner App (Python)
 
 Purpose:
 Scan the back of a medicine strip or box, detect the medicine name, and show clear, reliable information like:
@@ -42,4 +42,31 @@ Present structured, readable information in CLI or web app:
 
 <img width="358" height="103" alt="Screenshot 2025-07-11 at 10 43 12 PM" src="https://github.com/user-attachments/assets/7b7e7ea7-670d-4ac6-af33-1814833635d8" />
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Why AI Correction?
+
+Real-world medicine strips often have:
+
+- Blurred text.
+- Misread OCR outputs like Paracelamol → Paracetamol.
+You asked specifically about integrating Gemini Vision or GPT-4 Vision for that — yes, that’s ideal to increase accuracy 20–30%+.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Possible Improvements
+
+- Building a proper web app using Streamlit or Flask.
+- Saving scanned history.
+- Allowing PDF downloads of the result.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+ Summary 
+ - Purpose -> Identify medicines & info
+ - Backend -> Python, OpenFDA API
+ - Frontend -> Trying.....
+ - AI Integration -> Gemini Vision
 
