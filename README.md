@@ -1,4 +1,4 @@
-#Medicine-Scanner-App #(Python)
+# **Medicine-Scanner-App (Python)**
 
 Purpose:
 Scan the back of a medicine strip or box, detect the medicine name, and show clear, reliable information like:
