@@ -1,6 +1,7 @@
 # **Medicine-Scanner-App (Python)**
 
 Use gemini-1.5-pro. if you are using other models then edit in the code in line no. 42
+please put your API key in line no. 11
 
 💁Purpose:
 Scan the back of a medicine strip or box, detect the medicine name, and show clear, reliable information like:
