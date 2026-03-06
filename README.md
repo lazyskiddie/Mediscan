@@ -1,6 +1,6 @@
 # **Medicine-Scanner-App (Python)**
 
-Use gemini-1.5-pro. if you are using other models then edit in the code in line no. 42
+Use gemini-1.5-pro. if you are using other models then edit in the code in line no. 42 \n
 please put your API key in line no. 11
 
 💁Purpose:
